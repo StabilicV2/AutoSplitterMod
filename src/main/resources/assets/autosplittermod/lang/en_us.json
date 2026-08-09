@@ -1,0 +1,15 @@
+{
+  "speedrunapi.config.autosplittermod.option.connection:host": "Host",
+  "speedrunapi.config.autosplittermod.option.connection:port": "Port",
+  "speedrunapi.config.autosplittermod.option.connection:autoReconnect": "Auto Reconnect",
+  "speedrunapi.config.autosplittermod.option.splits:enterNether": "Enter Nether",
+  "speedrunapi.config.autosplittermod.option.splits:enterBastion": "Enter Bastion",
+  "speedrunapi.config.autosplittermod.option.splits:enterFortress": "Enter Fortress",
+  "speedrunapi.config.autosplittermod.option.splits:blind": "Blind",
+  "speedrunapi.config.autosplittermod.option.splits:eyeSpy": "Eye Spy",
+  "speedrunapi.config.autosplittermod.option.splits:endEnter": "Enter End",
+  "speedrunapi.config.autosplittermod.option.splits:credits": "Credits",
+  "speedrunapi.config.autosplittermod.option.general:resetDetection": "Reset Detection",
+  "speedrunapi.config.autosplittermod.option.general:showHud": "Show HUD",
+  "speedrunapi.config.autosplittermod.option.general:debugLogging": "Debug Logging"
+}

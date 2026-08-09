@@ -1,9 +1,12 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "autosplittermod.mixins",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"ExampleMixin"
+		"MixinClientPacketListener",
+		"MixinMouseHandler",
+		"MixinMinecraft",
+		"MixinWinScreen"
 	],
 	"injectors": {
 		"defaultRequire": 1
